@@ -96,10 +96,10 @@ module.exports.connections = {
   ***************************************************************************/
   postgresqlServer: {
     adapter: 'sails-postgresql',
-    host: '192.168.1.102',
-    user: 'sails_addressbook_user',
-    password: 'sails_addressbook_user',
-    database: 'sails_addressbook',
+    host: 'dpg-cqpr2g3qf0us73aodsm0-a',
+    user: 'postgresql_azura_user',
+    password: 'mGQ8D9RR3AFX3fex41i5Qe2MSUfk6Jrh',
+    database: 'postgresql_azura',
     
     // TODO: This schemaName thing didnt work.
 //    meta: {
